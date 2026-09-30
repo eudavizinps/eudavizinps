@@ -22,10 +22,10 @@ Sou Davi, estudante de Ciência da Computação. Gosto de transformar necessidad
 | Projeto | O que é | Acesse |
 | :--- | :--- | :--- |
 | **[Loja Virtual Thidel](https://github.com/eudavizinps/Loja-Virtual-Thidel)** | Interface de loja de moda masculina construída com Next.js. | [Ver site ↗](https://loja-virtual-thidel.pages.dev/) |
+| **[Luz Gastronomia](https://github.com/eudavizinps/Luz-Gastronomia)** | Cardápio digital com filtros, combos e sacola de pedidos. | [Ver site ↗](https://luz-gastronomia.pages.dev/) |
 | **[Miranda Recuperadora](https://github.com/eudavizinps/Site-MirandaRecuperadora)** | Site institucional responsivo com foco em credibilidade e conversão. | [Ver site ↗](https://site-mirandarecuperadora.pages.dev/) |
 | **[GCL Technology](https://github.com/eudavizinps/GCL-Technology)** | Presença digital da minha empresa, construída com HTML, CSS e JavaScript. | [Ver site ↗](https://gcltechnology.com.br/) |
-| **[Rosana Narcizo](https://github.com/eudavizinps/Projeto-Rosana-Narcizo)** | Site institucional responsivo desenvolvido em Angular. | [Ver site ↗](https://projeto-rosana-narcizo.pages.dev/) |
-| **[Ateliê Del Rio](https://github.com/eudavizinps/Atelie-Del-Rio)** | Experiência digital para decoração, locações e buffet. | [Código ↗](https://github.com/eudavizinps/Atelie-Del-Rio) |
+| **[Rosana Narcizo](https://github.com/eudavizinps/Projeto-Rosana-Narcizo)** | Protótipo de site institucional responsivo em Angular. | [Ver site ↗](https://projeto-rosana-narcizo.pages.dev/) |
 | **[Tabuleiro dos Lipídios](https://github.com/eudavizinps/tabuleiro-dos-lipidios)** | Jogo educativo sobre digestão e metabolismo dos lipídios. | [Código ↗](https://github.com/eudavizinps/tabuleiro-dos-lipidios) |
 
 ### Ferramentas que aparecem nos meus projetos
